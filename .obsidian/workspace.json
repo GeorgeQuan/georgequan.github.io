@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "db627334051db0dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "58fa57edda8088b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a297a62934a583b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "专高六/图集.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a98256f7523d4f63",
+    "type": "split",
+    "children": [
+      {
+        "id": "01ad0017c0ef92a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4a858f9b41719b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5365c16b9a3a898",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "398c09e006f50032",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d7d6b5dd8bfe4ae8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c394683aa5570c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d0ccaad462192e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "专高六/图集.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "abd091de7b900c73",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "专高六/图集.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e6027425671fd4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b35cb58475345fed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "专高六/图集.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c5365c16b9a3a898",
+  "lastOpenFiles": [
+    "专高4/渲染优化 性能优化.md",
+    "专高六/图集.md",
+    "优化/静态合批.md",
+    "力扣题/二叉树遍历.md",
+    "冷知识/UnityEditor.Editor.md",
+    "冷知识/unity 运行.md",
+    "力扣题/合并两个有序数组.md",
+    "力扣题/链表反转.md",
+    "力扣题/判断链表内是否有环,有返回.md",
+    "冷知识/程序集.md",
+    "冷知识/自定义特性.md",
+    "冷知识/Gitea的使用方法.md",
+    "专高五战斗框架/Task 任务.md",
+    "专二 c#基础/委托的定义 _ 修饰符 delegate 返回值 委托关键字(参数).md",
+    "冷知识/句柄.md",
+    "Pasted image 20240525092421.png",
+    "热知识/git.md",
+    "热知识/csharp常量区.md",
+    "优化/动态合批.md",
+    "专高2 热更新/c 拓展方法.md",
+    "优化/GPU Instancing.md",
+    "Pasted image 20240524101704.png",
+    "力扣题",
+    "优化/String 的特点 及优化.md",
+    "专高一网络通信/网络通讯同步客户端与服务器.md",
+    "数据结构/二叉树.md",
+    "数据结构/存储空间 栈空空间.md",
+    "优化/MinMap.md",
+    "优化/LOD.md",
+    "0b825b256e2b4027d8b69bb3b63b351b 2.png",
+    "0b825b256e2b4027d8b69bb3b63b351b 1.png",
+    "0b825b256e2b4027d8b69bb3b63b351b.png",
+    "热知识",
+    "冷知识",
+    "dd9fca54c2e4113028d338cbdac73f44.png",
+    "Pasted image 20240521224253.png",
+    "Pasted image 20240521223119.png",
+    "Pasted image 20240516091244.png",
+    "Pasted image 20240515162146.png",
+    "优化",
+    "数据结构",
+    "专高六",
+    "未命名.canvas",
+    "专高五战斗框架",
+    "专高4",
+    "设计模式的六大原则（SOLID）",
+    "23 种设计模式",
+    "未命名 6.canvas",
+    "未命名 5.canvas",
+    "未命名 4.canvas",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "专业五/未命名.canvas"
+  ]
+}

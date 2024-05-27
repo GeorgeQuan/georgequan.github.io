@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "5c7abec3db835573",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b20d8a258db8914",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b8c32b9212737a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "专高2 热更新/反射.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc2b005819d9741f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fc838fb52cc62721",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1f78c37bcb69795c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "aea8161c877578f8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b1ccddf8626ffb1c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d57f0ec313a42c48",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6ec9bafd04a38227",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "专高2 热更新/反射.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fe4d445d05e7e632",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "专高2 热更新/反射.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "26c23c7c84292081",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "专高2 热更新/反射.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2b8c32b9212737a2",
+  "lastOpenFiles": [
+    "刘昊小课堂/堆 栈  静态存储区.md",
+    "刘昊小课堂/_resources/刘昊小课堂之菜单小技巧.resources/unknown_filename.png",
+    "刘昊小课堂/_resources/刘昊小课堂之菜单小技巧.resources",
+    "刘昊小课堂/_resources/刘昊小课堂之翻页小方法.resources/unknown_filename.png",
+    "刘昊小课堂/_resources/刘昊小课堂之翻页小方法.resources",
+    "专高一网络通信/_resources/网络通讯同步客户端与服务器.resources/unknown_filename.png",
+    "专高一网络通信/_resources/网络通讯同步客户端与服务器.resources/unknown_filename.5.png",
+    "专高一网络通信/_resources/网络通讯同步客户端与服务器.resources/unknown_filename.4.png",
+    "专高一网络通信/_resources/网络通讯同步客户端与服务器.resources/unknown_filename.3.png",
+    "专高一网络通信/_resources/网络通讯同步客户端与服务器.resources/unknown_filename.2.png",
+    "专高一网络通信/_resources/网络通讯同步客户端与服务器.resources/unknown_filename.1.png",
+    "专高一网络通信/_resources/网络通讯同步客户端与服务器.resources",
+    "专高一网络通信/_resources/物体移动常用的7种方法.resources/unknown_filename.png",
+    "专高一网络通信/_resources/物体移动常用的7种方法.resources/unknown_filename.2.png",
+    "专高一网络通信/_resources/物体移动常用的7种方法.resources",
+    "专高一网络通信/_resources/摇杆移动.resources",
+    "专高一网络通信/_resources/工具类.resources",
+    "专高一网络通信/_resources/大端模式和小端模式.resources",
+    "专高一网络通信/_resources/Socket_网络通信类.resources",
+    "专高一网络通信/_resources/OSI七层模型_OSI(国际标准化组织).resources",
+    "专四unity UI/_resources/转盘抽奖.resources",
+    "专高一网络通信/_resources/同步异步 阻塞和非阻塞.md",
+    "刘昊小课堂/刘昊小课堂之菜单小技巧.md",
+    "刘昊小课堂/刘昊小课堂之翻页小方法.md",
+    "刘昊小课堂/lua调用c井号.md",
+    "专高一网络通信/网络通讯同步客户端与服务器.md",
+    "专高一网络通信/索引器 访问器 迭代器.md",
+    "专高一网络通信/端口.md",
+    "专高一网络通信/物体移动常用的7种方法.md",
+    "专高一网络通信/效果比较好的移动.md",
+    "专高一网络通信/摇杆移动.md",
+    "专高一网络通信/强行刷新ui布局.md",
+    "专高一网络通信/异步加载场景.md",
+    "专高一网络通信/工具类.md",
+    "专高一网络通信/定义套接字可以选择的数类型.md",
+    "专高一网络通信/定义套接字中包含的协议.md",
+    "专高一网络通信/子网掩码,默认网关,ABCDE类网络.md",
+    "专高一网络通信/大端模式和小端模式.md",
+    "专高一网络通信/向量的模长.md",
+    "专高一网络通信/刚体如何用力来移动.md",
+    "专高一网络通信/Unity 中Random 自带的方法.md",
+    "专高一网络通信/Time.deltaTime.md",
+    "专高一网络通信/Socket 网络通信类.md",
+    "专高一网络通信/Proto集合排序.md",
+    "专高一网络通信/PointerEventData(指针事件数据).md"
+  ]
+}
