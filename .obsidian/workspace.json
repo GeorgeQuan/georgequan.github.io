@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "专高六/图集.md",
+                "file": "热知识/git.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专高六/图集.md",
+                "file": "热知识/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "专高六/图集.md",
+                "file": "热知识/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "专高六/图集.md"
+                "file": "热知识/git.md"
               }
             }
           }
@@ -147,10 +147,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c5365c16b9a3a898",
+  "active": "a297a62934a583b5",
   "lastOpenFiles": [
-    "专高4/渲染优化 性能优化.md",
+    "专高4/什么是渲染管线.md",
     "专高六/图集.md",
+    "冷知识/地址是如何存储和获取数据的.md",
+    "Pasted image 20240527155747.png",
+    "Pasted image 20240527155655.png",
+    "专高4/渲染优化 性能优化.md",
     "优化/静态合批.md",
     "力扣题/二叉树遍历.md",
     "冷知识/UnityEditor.Editor.md",
@@ -176,8 +180,6 @@
     "专高一网络通信/网络通讯同步客户端与服务器.md",
     "数据结构/二叉树.md",
     "数据结构/存储空间 栈空空间.md",
-    "优化/MinMap.md",
-    "优化/LOD.md",
     "0b825b256e2b4027d8b69bb3b63b351b 2.png",
     "0b825b256e2b4027d8b69bb3b63b351b 1.png",
     "0b825b256e2b4027d8b69bb3b63b351b.png",
@@ -186,8 +188,6 @@
     "dd9fca54c2e4113028d338cbdac73f44.png",
     "Pasted image 20240521224253.png",
     "Pasted image 20240521223119.png",
-    "Pasted image 20240516091244.png",
-    "Pasted image 20240515162146.png",
     "优化",
     "数据结构",
     "专高六",

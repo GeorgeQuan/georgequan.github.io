@@ -31,7 +31,7 @@
 	可以通过 git remote 来查看
 	如果你想修改仓库的名字的话git remote rename origin orgin (先写原仓库名字,后写新仓库名字)
 	git remote -v 查看当前的仓库
-	git remote remove backup 移除远程仓库 后面是仓库名字
+	git remote remove  移除远程仓库 后面是仓库名字
 	
 	git branch feature1  创建分支,后面是分支名字,
 	git branch --list 查看所有的分支
